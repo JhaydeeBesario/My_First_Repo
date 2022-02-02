@@ -12,22 +12,7 @@
   .intro {
     font-weight: bold;
     }
-    h1 {
-      font-size: 40px;
-      margin-bottom: 50px;
-    }
-    h2 {
-      font-size: 30px;
-      font-weight: normal;
-      margin-top: 70px;
-      margin-bottom: 70px;
-    }
-    p {
-      font-size: 25px;
-      margin-bottom: 50px;
-      margin-right: 400px;
-      margin-left: 400px;
-      }    
+
       ul {
         list-style-type: none;
         margin-top: 20px;
@@ -43,5 +28,15 @@
     .headerLogo {
         text-align:center;
     }
-    
-   
+    .grid-container-element { 
+        display: grid; 
+        grid-template-columns: 2fr 2fr; 
+        grid-gap: 20px; 
+        width: 50%; 
+        align-items: center;
+        margin-top: 5%;
+    } 
+    .grid-child-element { 
+        margin: 10px; 
+
+    }
