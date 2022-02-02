@@ -30,13 +30,12 @@
     }
     .grid-container-element { 
         display: grid; 
-        grid-template-columns: 2fr 6fr; 
+        grid-template-columns: 2fr 12fr; 
         grid-gap: 20px; 
-        width: 50%; 
+        width: 55%; 
         align-items: center;
         margin-top: 5%;
     } 
     .grid-child-element { 
         margin: 10px; 
-
     }
