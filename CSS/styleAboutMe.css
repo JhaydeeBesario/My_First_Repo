@@ -43,4 +43,8 @@
       padding: 1px;
       margin-left: 200px;
     }
-   
+   .back {
+       font-size: 20px;
+       margin-top: 9%;
+       margin-bottom: 9%;
+   }
