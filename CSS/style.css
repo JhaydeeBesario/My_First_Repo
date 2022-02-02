@@ -35,7 +35,11 @@
         width: 55%; 
         align-items: center;
         margin-top: 5%;
+        margin-left: 22%;
     } 
     .grid-child-element { 
         margin: 10px; 
+    }
+    .nav {
+        text-align: center;
     }
